@@ -8,7 +8,7 @@
 
 A highly precise, real-time Computer Vision system designed to detect driver drowsiness and fatigue. By monitoring eye closures and head posture via a webcam, the system triggers a **fail-safe dual-alert system**: a local computer audio warning combined with a blaring hardware buzzer activated via serial communication to an Arduino.
 
----
+----
 
 </div>
 
